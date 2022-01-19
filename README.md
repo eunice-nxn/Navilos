@@ -8,3 +8,6 @@ I studied [Embedded OS Development Project](http://www.kyobobook.co.kr/product/d
 This repository contains the source codes of the Navilos.
 For the exapanding the understanding of the operating system and ARM, I typed the code manually and executed it on the QEMU emulator 
 used as a virtual machine for x86 or ARM.
+
+
+The study reports realted with this project are in [my velog](https://velog.io/@eunice-nxn/Navilos-UART).
